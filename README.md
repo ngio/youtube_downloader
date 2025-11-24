@@ -1,5 +1,13 @@
 # youtube 영상을 download 하려고 만듬.
 
+
+youtube_downloader.py
+
+CMD에서 URL만 입력하고 다운 받을 수 있게 간단히 만듬. 
+
+---
+
+
 최종 파일 : pyQt_main_form_3_btn_filelist_DblClk_path.py
 
 ## PyQt5.QtWidgets 
